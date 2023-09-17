@@ -1,0 +1,4 @@
+*.env
+data_base
+temp_voice
+info.py
